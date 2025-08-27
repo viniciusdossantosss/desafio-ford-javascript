@@ -98,6 +98,10 @@ span.redesociais {
     vertical-align: super;
 }
 
+.checkbox {
+    cursor: pointer;
+}
+
 footer {
     background: #1B357E;
     padding: 20px;
@@ -117,4 +121,5 @@ button {
     color: #fff;
     border: 0px;
     border-radius: 10px;
+    cursor: pointer;
 }

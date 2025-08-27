@@ -9,6 +9,10 @@
     padding: 5px;
 }
 
+.option{
+    cursor: pointer;
+}
+
 select.fordform {
     width: 310px;
     height: 36px;
